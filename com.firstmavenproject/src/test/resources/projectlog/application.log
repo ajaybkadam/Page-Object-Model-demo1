@@ -1,0 +1,8 @@
+2021-10-16 12:09:51,282  WARN [main] LoginPageTest:27 - User should use valid driver file
+2021-10-16 12:09:51,333  INFO [main] LoginPageTest:28 - opening a new chromeBrowser
+2021-10-16 12:09:57,637  WARN [main] LoginPageTest:26 - User should use valid driver file
+2021-10-16 12:09:57,637  INFO [main] LoginPageTest:27 - opening a new chromeBrowser
+2021-10-16 12:10:08,384  INFO [main] Test0:37 - opening new task
+2021-10-16 12:10:08,413  INFO [main] Test0:47 - opening new test
+2021-10-16 12:10:08,424  INFO [main] Test0:20 - opening a new chrome browser
+2021-10-16 12:10:17,596  INFO [main] Test0:16 - opening my browser
