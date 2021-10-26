@@ -35,7 +35,7 @@ public class Test0 {
 @Test
 public void check(){
 	  log.info("opening new task");
-	Assert.assertEquals(false, true);
+	Assert.assertEquals(true, false);
 	
 	
 	

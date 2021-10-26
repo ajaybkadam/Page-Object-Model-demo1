@@ -1,10 +1,10 @@
-2021-10-26 11:39:06,302  WARN [main] LoginPageTest:27 - User should use valid driver file
-2021-10-26 11:39:06,307  INFO [main] LoginPageTest:28 - opening a new chromeBrowser
-2021-10-26 11:39:14,485  WARN [main] LoginPageTest:26 - User should use valid driver file
-2021-10-26 11:39:14,485  INFO [main] LoginPageTest:27 - opening a new chromeBrowser
-2021-10-26 11:39:20,835  INFO [main] Test0:20 - opening a new chrome browser
-2021-10-26 11:39:32,066  INFO [main] Test0:37 - opening new task
-2021-10-26 11:39:32,076  INFO [main] Test0:47 - opening new test
-2021-10-26 11:39:32,081  INFO [main] Test0:16 - opening my browser
-2021-10-26 11:39:40,025  INFO [main] Test0:16 - opening a new chrome 
-2021-10-26 11:39:48,590  INFO [main] Test0:16 - opening a new  browser
+2021-10-26 11:48:23,091  WARN [main] LoginPageTest:27 - User should use valid driver file
+2021-10-26 11:48:23,096  INFO [main] LoginPageTest:28 - opening a new chromeBrowser
+2021-10-26 11:48:29,749  WARN [main] LoginPageTest:26 - User should use valid driver file
+2021-10-26 11:48:29,749  INFO [main] LoginPageTest:27 - opening a new chromeBrowser
+2021-10-26 11:48:35,789  INFO [main] Test0:20 - opening a new chrome browser
+2021-10-26 11:48:45,816  INFO [main] Test0:37 - opening new task
+2021-10-26 11:48:45,826  INFO [main] Test0:47 - opening new test
+2021-10-26 11:48:45,831  INFO [main] Test0:16 - opening my browser
+2021-10-26 11:48:59,607  INFO [main] Test0:16 - opening a new chrome 
+2021-10-26 11:49:06,920  INFO [main] Test0:16 - opening a new  browser

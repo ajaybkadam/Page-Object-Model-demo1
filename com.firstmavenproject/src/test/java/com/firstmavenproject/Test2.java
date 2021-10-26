@@ -20,6 +20,6 @@ public class Test2 {
 		driver.get(" file:///D:/SELENIUM/Selenium%20Softwares/Offline%20Website/Offline%20Website/index.html");
 		
 		
-		Assert.assertEquals(false, true);
+		Assert.assertEquals(true, false);
 }
 }
