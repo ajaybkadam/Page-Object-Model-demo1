@@ -11,7 +11,7 @@ public class Test1 {
 WebDriver driver;
 
 private Logger log=Logger.getLogger(Test0.class);
-	@Test(priority = 1)
+	@Test
 	public void course() {
 		log.info("opening my browser");
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");

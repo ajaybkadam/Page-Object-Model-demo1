@@ -11,7 +11,7 @@ public class Test3 {
 
 	WebDriver driver;
 	private Logger log=Logger.getLogger(Test0.class);
-	@Test(priority = 21)
+	@Test
 	public void checkblank() {
 		 log.info("opening a new  browser");
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");

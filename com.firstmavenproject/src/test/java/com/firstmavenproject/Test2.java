@@ -11,7 +11,7 @@ public class Test2 {
 
 	WebDriver driver;
 	private Logger log=Logger.getLogger(Test0.class);
-	@Test(priority = 15)
+	@Test
 	public void usefullink() {
 		 log.info("opening a new chrome ");
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");

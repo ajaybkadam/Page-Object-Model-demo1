@@ -15,7 +15,7 @@ public class Test0 {
 
 	WebDriver driver;
 	private Logger log=Logger.getLogger(Test0.class);
-	@Test(priority = 1)
+	@Test
 	public void MemberShipTest() {
        log.info("opening a new chrome browser");
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
@@ -25,7 +25,7 @@ public class Test0 {
 		driver.findElement(By.xpath(" /html/body/div/div[2]/form/div[3]/div/button")).click();
 		String act = "JavaByKiran | Log in";
 		String exp = driver.getTitle();
-		Assert.assertEquals(act, exp);
+		Assert.assertEquals(exp, act);
 		driver.close();
 	
 
@@ -35,7 +35,7 @@ public class Test0 {
 @Test
 public void check(){
 	  log.info("opening new task");
-	Assert.assertEquals(true, false);
+	Assert.assertEquals(false, true);
 	
 	
 	
