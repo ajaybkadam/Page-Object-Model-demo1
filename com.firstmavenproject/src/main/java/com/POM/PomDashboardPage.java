@@ -28,8 +28,7 @@ WebDriver driver;
 			                                 //This can called current class
 	}
 	
-	public ArrayList<String> Verifycourses(){ ///This is Method for courses
-		
+	public ArrayList<String> Verifycourses(){ ///This is Method for courses	
 	ArrayList<String> S1=new ArrayList<String>();	
 	for(WebElement course:courses){
 	
